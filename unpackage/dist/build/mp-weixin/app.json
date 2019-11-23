@@ -1,0 +1,125 @@
+{
+  "pages": [
+    "pages/address/address",
+    "pages/address/msdh/dhsc",
+    "pages/introduction/introduction",
+    "pages/address/msnc/yuyin",
+    "pages/shop/settlement",
+    "pages/address/msdh/index",
+    "pages/address/msdh/index3",
+    "pages/address/msdh/search",
+    "pages/address/msdh/zhifu",
+    "pages/address/msdh/zhifu2",
+    "pages/address/msdh/paymentsuccess",
+    "pages/address/mszc/index",
+    "pages/address/mszc/zchistory",
+    "pages/address/mszc/zztcm",
+    "pages/address/mszc/tcm",
+    "pages/address/mszc/tcm1",
+    "pages/address/mszc/location",
+    "pages/address/msdh/zzdhm",
+    "pages/address/msdh/dhm",
+    "pages/address/msdh/dhm1",
+    "pages/address/msdh/dh",
+    "pages/address/msdh/focus",
+    "pages/address/msnc/index",
+    "pages/address/msnc/index3",
+    "pages/address/msnc/yhlq",
+    "pages/address/msnc/zzncm",
+    "pages/address/msnc/fksq",
+    "pages/address/msnc/payment",
+    "pages/address/msnc/paymentsuccess",
+    "pages/address/msnc/qcodesuccess",
+    "pages/address/msnc/plqcodesuccess",
+    "pages/address/msnc/bdncm",
+    "pages/address/msnc/bdcg",
+    "pages/address/msnc/smnc",
+    "pages/address/msnc/smnc1",
+    "pages/address/msnc/smnc2",
+    "pages/identity/identity",
+    "pages/identity/znxr/xrmsc",
+    "pages/identity/znxr/index",
+    "pages/identity/znxr/yhlq",
+    "pages/identity/znxr/index3",
+    "pages/identity/znxr/zzxrm",
+    "pages/identity/znxr/zzxrm1",
+    "pages/identity/znxr/payment",
+    "pages/identity/znxr/payment1",
+    "pages/identity/znxr/paymentsuccess",
+    "pages/share/share",
+    "pages/shop/shop",
+    "pages/shop/detail",
+    "pages/shop/payment",
+    "pages/shop/trolley",
+    "pages/shop/bill",
+    "pages/mine/mine",
+    "pages/mine/codelist",
+    "pages/mine/bill",
+    "pages/mine/billdetail",
+    "pages/mine/address",
+    "pages/mine/suggest",
+    "pages/mine/collection",
+    "pages/mine/dailyproblem",
+    "pages/mine/about",
+    "pages/mine/eaddress",
+    "pages/mine/aaddress",
+    "pages/mine/mycode",
+    "pages/phone/introduction",
+    "pages/phone/contactway",
+    "pages/phone/buyphone",
+    "pages/phone/paymentsuccess",
+    "pages/xy/xy",
+    "pages/4s/4s"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "backgroundColor": "#FFFFFF",
+    "color": "#000000",
+    "borderStyle": "black",
+    "selectedColor": "#3377FF",
+    "list": [
+      {
+        "pagePath": "pages/address/address",
+        "iconPath": "/static/nav_1.png",
+        "selectedIconPath": "static/nav_1_active.png",
+        "text": "+寻址"
+      },
+      {
+        "pagePath": "pages/identity/identity",
+        "iconPath": "/static/nav_2.png",
+        "selectedIconPath": "static/nav_2_active.png",
+        "text": "+身份"
+      },
+      {
+        "pagePath": "pages/share/share",
+        "iconPath": "/static/nav_3.png",
+        "selectedIconPath": "static/nav_3_active.png",
+        "text": "+分享"
+      },
+      {
+        "pagePath": "pages/shop/shop",
+        "iconPath": "/static/nav_4.png",
+        "selectedIconPath": "static/nav_4_active.png",
+        "text": "商城"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "iconPath": "/static/nav_5.png",
+        "selectedIconPath": "static/nav_5_active.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "获取用户位置信息，方便用户将自己的位置信息转化为二维码"
+    }
+  },
+  "usingComponents": {}
+}

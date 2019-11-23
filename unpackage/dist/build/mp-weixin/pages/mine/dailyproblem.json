@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "日常问题",
+  "usingComponents": {
+    "contact": "/components/contact/contact"
+  }
+}

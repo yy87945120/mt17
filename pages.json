@@ -1,0 +1,522 @@
+{
+	"pages": [ 
+		{
+			"path": "pages/address/address",
+			"style": {
+				"navigationBarTitleText": "码捷达-智能寻址"
+			
+			}
+		},
+		{
+			"path": "pages/address/msdh/dhsc",
+			"style": {
+				"navigationBarTitleText": "导航生成结果页"
+			}
+		},
+		{
+			"path": "pages/introduction/introduction",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/address/msnc/yuyin",
+			"style": {
+				"navigationBarTitleText": "发送微信语音"
+			}
+		},
+		{
+			"path": "pages/shop/settlement",
+			"style": {
+				"navigationBarTitleText": "订单生成成功"
+			}
+		},
+		{
+			"path": "pages/address/msdh/index",
+			"style": {
+				"navigationBarTitleText": "码上导航",
+				"navigationBarBackgroundColor":"#73DBEE",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/address/msdh/index3",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationBarBackgroundColor":"#73DBEE",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/address/msdh/search",
+			"style": {
+				"navigationBarTitleText": "搜索位置"
+			}
+		},
+		{
+			"path": "pages/address/msdh/zhifu",
+			"style": {
+				"navigationBarTitleText": "申请服务费"
+			}
+		},
+		{
+			"path": "pages/address/msdh/zhifu2",
+			"style": {
+				"navigationBarTitleText": "申请广告费"
+			}
+		},
+		
+		{
+			"path": "pages/address/msdh/paymentsuccess",
+			"style": {
+				"navigationBarTitleText": "付款成功"
+			}
+		},
+		{
+			"path": "pages/address/mszc/index",
+			"style": {
+				"navigationBarTitleText": "智能找车",
+				"navigationBarBackgroundColor":"#7C96F8",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/address/mszc/zchistory",
+			"style": {
+				"navigationBarTitleText": "历史记录"	
+			}
+		},
+		{
+			"path": "pages/address/mszc/zztcm",
+			"style": {
+				"navigationBarTitleText": "制作停车码"
+				
+			}
+		},
+		{
+			"path": "pages/address/mszc/tcm",
+			"style": {
+				"navigationBarTitleText": "停车码"
+				
+			}
+		},
+		{
+			"path": "pages/address/mszc/tcm1",
+			"style": {
+				"navigationBarTitleText": "停车码"
+				
+			}
+		},
+		{
+			"path": "pages/address/mszc/location",
+			"style": {
+				"navigationBarTitleText": "定位"
+			}
+		},
+		{
+			"path": "pages/address/msdh/zzdhm",
+			"style": {
+				"navigationBarTitleText": "制作导航码"
+			}
+		},
+		
+		{
+			"path": "pages/address/msdh/dhm",
+			"style": {
+				"navigationBarTitleText": "我的导航码"
+			}
+		},
+		{
+			"path": "pages/address/msdh/dhm1",
+			"style": {
+				"navigationBarTitleText": "导航码详情"
+			}
+		},
+		{
+			"path": "pages/address/msdh/dh",
+			"style": {
+				"navigationBarTitleText": "导航详情"
+			}
+		},
+		{
+			"path": "pages/address/msdh/focus",
+			"style": {
+				"navigationBarTitleText": "关注成功"
+			}
+		},
+		{
+			"path": "pages/address/msnc/index",
+			"style": {
+				"navigationBarTitleText": "码上挪车",
+				"navigationBarBackgroundColor":"#13A38A",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/address/msnc/index3",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationBarBackgroundColor":"#13A38A",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/address/msnc/yhlq",
+			"style": {
+				"navigationBarTitleText": "优惠领取"
+			}
+		},
+		{
+			"path": "pages/address/msnc/zzncm",
+			"style": {
+				"navigationBarTitleText": "制作挪车码"
+			}
+		},
+		{
+			"path": "pages/address/msnc/fksq",
+			"style": {
+				"navigationBarTitleText": "二维码申请提示"
+			}
+		},
+		{
+			"path": "pages/address/msnc/payment",
+			"style": {
+				"navigationBarTitleText": "支付服务费"
+			}
+		},
+		{
+			"path": "pages/address/msnc/paymentsuccess",
+			"style": {
+				"navigationBarTitleText": "支付成功"
+			}
+		},
+		{
+			"path": "pages/address/msnc/qcodesuccess",
+			"style": {
+				"navigationBarTitleText": "挪车二维码生成"
+			}
+		},
+		{
+			"path": "pages/address/msnc/plqcodesuccess",
+			"style": {
+				"navigationBarTitleText": "批量挪车二维码生成"
+			}
+		},
+		{
+			"path": "pages/address/msnc/bdncm",
+			"style": {
+				"navigationBarTitleText": "绑定挪车码"
+			}
+		},
+		{
+			"path": "pages/address/msnc/bdcg",
+			"style": {
+				"navigationBarTitleText": "绑定成功"
+			}
+		},
+		{
+			"path": "pages/address/msnc/smnc",
+			"style": {
+				"navigationBarTitleText": "非常抱歉挡住您了！"
+			}
+		},
+		{
+			"path": "pages/address/msnc/smnc1",
+			"style": {
+				"navigationBarTitleText": "临时停车 多多关照！"
+			}
+		},
+		{
+			"path": "pages/address/msnc/smnc2",
+			"style": {
+				"navigationBarTitleText": "临时停车 多多关照！"
+			}
+		},
+		{
+			"path": "pages/identity/identity",
+			"style": {
+				"navigationBarTitleText": "码捷达-身份标识",
+				"navigationBarBackgroundColor":"#3377FF",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/identity/znxr/xrmsc",
+			"style": {
+				"navigationBarTitleText": "导航生成结果页"
+			}
+		},
+		{
+			"path": "pages/identity/znxr/index",
+			"style": {
+				"navigationBarTitleText": "智能寻人",
+				"navigationBarBackgroundColor":"#A88DFF",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		
+		{
+			"path": "pages/identity/znxr/yhlq",
+			"style": {
+				"navigationBarTitleText": "优惠领取",
+				"navigationBarBackgroundColor":"#3377FF",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/identity/znxr/index3",
+			"style": {
+				"navigationBarTitleText": "二维码申请",
+				"navigationBarBackgroundColor":"#A88DFF",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/identity/znxr/zzxrm",
+			"style": {
+				"navigationBarTitleText": "制作寻人码"
+				
+			}
+		},
+		{
+			"path": "pages/identity/znxr/zzxrm1",
+			"style": {
+				"navigationBarTitleText": "制作寻人码"
+				
+			}
+		},
+		{
+			"path": "pages/identity/znxr/payment",
+			"style": {
+				"navigationBarTitleText": "支付酬金"
+				
+			}
+		},
+		{
+			"path": "pages/identity/znxr/payment1",
+			"style": {
+				"navigationBarTitleText": "申请服务费"
+				
+			}
+		},
+		{
+			"path": "pages/identity/znxr/paymentsuccess",
+			"style": {
+				"navigationBarTitleText": "支付成功"
+				
+			}
+		},
+		{
+			"path": "pages/share/share",
+			"style": {
+				"navigationBarTitleText": "码捷达-分享标识",
+				"navigationBarBackgroundColor":"#7C97F7",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		
+		{
+			"path": "pages/shop/shop",
+			"style": {
+				"navigationBarTitleText": "车电装商城"
+			}
+		},
+		{
+			"path": "pages/shop/detail",
+			"style": {
+				"navigationBarTitleText": "商品详情"
+			}
+		},
+		{
+			"path": "pages/shop/payment",
+			"style": {
+				"navigationBarTitleText": "支付成功"
+			}
+		},
+		{
+			"path": "pages/shop/trolley",
+			"style": {
+				"navigationBarTitleText": "购物车"
+			}
+		},
+		{
+			"path": "pages/shop/bill",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		},
+		{
+			"path": "pages/mine/mine",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/mine/codelist",
+			"style": {
+				"navigationBarTitleText": "我的导航码"
+			}
+		},
+		
+		
+		// 导航内容
+		{
+			"path": "pages/mine/bill",
+			"style": {
+				"navigationBarTitleText": "我的订单"
+			}
+		},
+		{
+			"path": "pages/mine/billdetail",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		},
+		{
+			"path": "pages/mine/address",
+			"style": {
+				"navigationBarTitleText": "我的地址"
+			}
+		},
+		{
+			"path": "pages/mine/suggest",
+			"style": {
+				"navigationBarTitleText": "意见反馈"
+			}
+		},
+		{
+			"path": "pages/mine/collection",
+			"style": {
+				"navigationBarTitleText": "我的收藏"
+			}
+		},
+		{
+			"path": "pages/mine/dailyproblem",
+			"style": {
+				"navigationBarTitleText": "日常问题"
+			}
+		},
+		{
+			"path": "pages/mine/about",
+			"style": {
+				"navigationBarTitleText": "关于码捷达二维码"
+			}
+		},
+		
+		{
+			"path": "pages/mine/eaddress",
+			"style": {
+				"navigationBarTitleText": "编辑地址"
+			}
+		},
+		
+		{
+			"path": "pages/mine/aaddress",
+			"style": {
+				"navigationBarTitleText": "新增地址"
+			}
+		},
+		
+		{
+			"path": "pages/mine/mycode",
+			"style": {
+				"navigationBarTitleText": "我的二维码"
+			}
+		},
+		{
+			"path": "pages/phone/introduction",
+			"style": {
+				"navigationBarTitleText": "虚拟电话介绍"
+			}
+		},
+		{
+			"path": "pages/phone/contactway",
+			"style": {
+				"navigationBarTitleText": "请选择电话沟通方式"
+			}
+		},
+		{
+			"path": "pages/phone/buyphone",
+			"style": {
+				"navigationBarTitleText": "虚拟电话购买"
+			}
+		},
+		{
+			"path": "pages/phone/paymentsuccess",
+			"style": {
+				"navigationBarTitleText": "支付成功"
+			}
+		},
+		{
+			"path": "pages/xy/xy",
+			"style": {
+				"navigationBarTitleText": "协议内容"
+			}
+		},
+		{
+			"path": "pages/4s/4s",
+			"style": {
+				"navigationBarTitleText": "附近的4s店"
+			}
+		}
+	],
+	
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"permission": {
+	    "scope.userLocation": {
+	      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+	    }
+	},
+	"tabBar":{
+		"backgroundColor":"#FFFFFF",
+		"color":"#000000",
+		"borderStyle": "black",
+		"selectedColor":"#3377FF",
+		"list":[{
+				"pagePath":"pages/address/address",
+				"iconPath":"/static/nav_1.png",
+				"selectedIconPath":"static/nav_1_active.png",
+				"text":"+寻址"
+			},
+			{
+				"pagePath":"pages/identity/identity",
+				"iconPath":"/static/nav_2.png",
+				"selectedIconPath":"static/nav_2_active.png",
+				"text":"+身份"
+			},
+			{
+				"pagePath":"pages/share/share",
+				"iconPath":"/static/nav_3.png",
+				"selectedIconPath":"static/nav_3_active.png",
+				"text":"+分享"
+			},
+			{
+				"pagePath":"pages/shop/shop",
+				"iconPath":"/static/nav_4.png",
+				"selectedIconPath":"static/nav_4_active.png",
+				"text":"商城"
+			},
+			{
+				"pagePath":"pages/mine/mine",
+				"iconPath":"/static/nav_5.png",
+				"selectedIconPath":"static/nav_5_active.png",
+				"text":"我的"
+			}
+		]
+	},
+	"condition" : { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [
+			{
+				"name": "", //模式名称
+				"path": "pages/address/msnc/yuyin", //启动页面，必选
+				"query": "" //启动参数，在页面的onLoad函数里面得到
+			}
+		]
+	}
+}

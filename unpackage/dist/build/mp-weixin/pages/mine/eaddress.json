@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "编辑地址",
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}

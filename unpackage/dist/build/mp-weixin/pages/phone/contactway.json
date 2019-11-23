@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "请选择电话沟通方式",
+  "usingComponents": {
+    "contact": "/components/contact/contact"
+  }
+}

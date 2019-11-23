@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "码上挪车",
+  "navigationBarBackgroundColor": "#13A38A",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "pinpai": "/components/pinpai/pinpai",
+    "contact": "/components/contact/contact",
+    "banner": "/components/banner/banner",
+    "w-picker": "/components/w-picker/w-picker",
+    "link-url": "/components/link/link",
+    "link2": "/components/link2/link2"
+  }
+}

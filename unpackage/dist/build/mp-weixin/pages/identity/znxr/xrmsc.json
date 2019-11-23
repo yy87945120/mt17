@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "导航生成结果页",
+  "usingComponents": {
+    "an-upload-img": "/components/an-uploadImg/an-uploadImg"
+  }
+}

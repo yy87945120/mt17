@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "码上导航",
+  "navigationBarBackgroundColor": "#73DBEE",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "contact": "/components/contact/contact",
+    "counter": "/components/counter/counter",
+    "pinpai": "/components/pinpai/pinpai",
+    "banner": "/components/banner/banner",
+    "link2": "/components/link2/link2"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "制作导航码",
+  "usingComponents": {
+    "an-upload-img": "/components/an-uploadImg/an-uploadImg",
+    "an-upload-video": "/components/an-uploadVideo/an-uploadVideo",
+    "an-upload-adv": "/components/an-uploadAdv/an-uploadAdv",
+    "uni-icon": "/components/uni-icons/uni-icons",
+    "banner": "/components/banner/banner",
+    "contact": "/components/contact/contact"
+  }
+}

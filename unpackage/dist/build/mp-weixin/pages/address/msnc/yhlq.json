@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "优惠领取",
+  "usingComponents": {
+    "contact": "/components/contact/contact",
+    "counter": "/components/counter/counter",
+    "banner": "/components/banner/banner",
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "navigationBarBackgroundColor": "#73DBEE",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "counter": "/components/counter/counter"
+  }
+}

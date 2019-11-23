@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "附近的4s店",
+  "usingComponents": {
+    "contact": "/components/contact/contact",
+    "banner": "/components/banner/banner",
+    "search-input": "/components/bm-searchInput/bm-searchInput"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="v-tab"><block wx:for="{{data}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view data-event-opts="{{[['tap',[['select',['$0',index],[[['data','',index]]]]]]]}}" class="{{[index===selectIndex?'action':'']}}" bindtap="__e">{{''+item.name+''}}</view></block></view>

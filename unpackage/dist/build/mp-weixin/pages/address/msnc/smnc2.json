@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "临时停车 多多关照！",
+  "usingComponents": {
+    "an-upload-img": "/components/an-uploadImg/an-uploadImg",
+    "pinpai": "/components/pinpai/pinpai",
+    "link-url": "/components/link/link",
+    "banner": "/components/banner/banner",
+    "contact": "/components/contact/contact"
+  }
+}

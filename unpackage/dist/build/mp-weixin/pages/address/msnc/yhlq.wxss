@@ -1,0 +1,1 @@
+.form_item{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;border-bottom:1rpx solid #d8d8d8;padding:36rpx 0rpx;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between}.form_item input{text-align:right}

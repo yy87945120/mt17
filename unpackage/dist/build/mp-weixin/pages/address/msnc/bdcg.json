@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "绑定成功",
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "link-url": "/components/link/link",
+    "banner": "/components/banner/banner",
+    "contact": "/components/contact/contact"
+  }
+}
