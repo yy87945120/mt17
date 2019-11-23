@@ -1,0 +1,1 @@
+<view class="content"><map style="width:100vw;" name markers="{{markers}}" longitude="{{map.longitude}}" latitude="{{map.latitude}}"></map><contact vue-id="1" bind:__l="__l"></contact></view>

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "关于码捷达二维码",
+  "usingComponents": {
+    "contact": "/components/contact/contact"
+  }
+}

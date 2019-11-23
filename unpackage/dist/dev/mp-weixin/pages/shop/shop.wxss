@@ -1,0 +1,38 @@
+
+.shop_button{
+	padding:0rpx 18rpx;
+	/* border: 1upx solid rgba(228,228,228,1); */
+	height:67rpx;
+	line-height:67rpx;
+	margin-left:18rpx;
+	/* float: left; */
+}
+.content {
+	/* display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center; */
+}
+.logo {
+	height: 200rpx;
+	width: 200rpx;
+	margin-top: 200rpx;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50rpx;
+}
+.text-area {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+.title {
+	font-size: 36rpx;
+	color: #8f8f94;
+}
+

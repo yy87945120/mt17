@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "导航码详情",
+  "usingComponents": {
+    "uni-icon": "/components/uni-icons/uni-icons",
+    "link-url": "/components/link/link",
+    "banner": "/components/banner/banner",
+    "saveimg": "/components/saveimg/saveimg"
+  }
+}

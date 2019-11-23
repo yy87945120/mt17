@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "智能找车",
+  "navigationBarBackgroundColor": "#7C96F8",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "contact": "/components/contact/contact",
+    "banner": "/components/banner/banner"
+  }
+}

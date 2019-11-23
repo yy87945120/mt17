@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "导航生成结果页",
+  "usingComponents": {
+    "uni-icon": "/components/uni-icons/uni-icons",
+    "link-url": "/components/link/link",
+    "banner": "/components/banner/banner",
+    "contact": "/components/contact/contact"
+  }
+}

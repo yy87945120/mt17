@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "绑定挪车码",
+  "usingComponents": {
+    "plate-input": "/components/uni-plate-input/uni-plate-input",
+    "an-upload-img": "/components/an-uploadImg/an-uploadImg",
+    "w-picker": "/components/w-picker/w-picker",
+    "link-url": "/components/link/link",
+    "banner": "/components/banner/banner",
+    "contact": "/components/contact/contact"
+  }
+}

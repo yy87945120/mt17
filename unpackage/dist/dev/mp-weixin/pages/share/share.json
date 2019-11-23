@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "码捷达-分享标识",
+  "navigationBarBackgroundColor": "#7C97F7",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "banner": "/components/banner/banner",
+    "contact": "/components/contact/contact"
+  }
+}

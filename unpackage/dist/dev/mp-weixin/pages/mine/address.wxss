@@ -1,0 +1,6 @@
+
+.aaddress_list{
+	padding-right:28rpx;
+	border:1rpx solid rgba(243,243,243,1)
+}
+

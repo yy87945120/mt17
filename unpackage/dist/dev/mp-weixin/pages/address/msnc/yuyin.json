@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "发送微信语音",
+  "usingComponents": {
+    "jsfun-record": "/components/jsfun-record/jsfun-record",
+    "link-url": "/components/link/link",
+    "banner": "/components/banner/banner",
+    "contact": "/components/contact/contact"
+  }
+}

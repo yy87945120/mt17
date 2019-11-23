@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "定位",
+  "usingComponents": {
+    "an-upload-img": "/components/an-uploadImg/an-uploadImg",
+    "jsfun-record": "/components/jsfun-record/jsfun-record",
+    "banner": "/components/banner/banner"
+  }
+}

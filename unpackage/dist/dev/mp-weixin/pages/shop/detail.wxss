@@ -1,0 +1,13 @@
+
+.detail_button{
+	color:rgba(255,255,255,1);
+	border-radius:58rpx;
+	width: 326rpx;
+}
+.detail_button_green{
+	background:rgba(108,198,10,1)
+}
+.detail_button_blue{
+	background:rgba(51,119,255,1);
+}
+

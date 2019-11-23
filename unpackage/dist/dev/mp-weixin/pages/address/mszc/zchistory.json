@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "历史记录",
+  "usingComponents": {
+    "search-input": "/components/bm-searchInput/bm-searchInput",
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "uni-swipe-action": "/components/uni-swipe-action/uni-swipe-action",
+    "uni-list": "/components/uni-list/uni-list",
+    "uni-list-item": "/components/uni-list-item/uni-list-item",
+    "banner": "/components/banner/banner",
+    "contact": "/components/contact/contact"
+  }
+}

@@ -1,0 +1,48 @@
+
+.iconshoucang1{
+	color: #DD524D;
+}
+.dhm_form{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: start;
+	-webkit-justify-content: flex-start;
+	    -ms-flex-pack: start;
+	        justify-content: flex-start;
+	margin-top:28rpx
+}
+.dhm_form_item1{
+	font-size:28rpx;
+	width: 127rpx;
+}
+.dhm_form_item2{
+	font-size:26rpx;
+	color:#888888;
+	margin-left:43rpx;
+	width: 399rpx;
+}
+.info{
+	color:#888888;
+	font-size:26rpx;
+	min-height: 188rpx;
+	width: 617rpx;
+	overflow-y: auto;
+}
+.normalButton{
+	width: 500rpx;
+}
+.shadow{
+	width:694rpx;
+	/* height:1029upx; */
+	background:rgba(255,255,255,1);
+	-webkit-box-shadow:0rpx 12rpx 25rpx 0rpx rgba(221,221,221,0.08);
+	        box-shadow:0rpx 12rpx 25rpx 0rpx rgba(221,221,221,0.08);
+	border-radius:20rpx;
+}
+

@@ -1,0 +1,27 @@
+
+.banner_introduction{
+	padding:18rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-shadow:0rpx 12rpx 12rpx 0rpx rgba(147,147,147,0.37);
+	        box-shadow:0rpx 12rpx 12rpx 0rpx rgba(147,147,147,0.37);
+	border-radius:20rpx;
+	margin-top:18rpx
+}
+.banner_introduction_detail{
+	margin-left:18rpx
+}
+.banner_introduction_detail_word1{
+	font-size:26rpx
+}
+.banner_introduction_detail_word2{
+	font-size:24rpx;
+	color:#BBBBBB
+}
+

@@ -1,0 +1,73 @@
+
+.codelist_bg{
+	padding:28rpx
+}
+.codelist{
+	width:694rpx;
+	min-height:308rpx;
+	-webkit-box-sizing:border-box;
+	        box-sizing:border-box;
+	background:rgba(255,255,255,1);
+	-webkit-box-shadow:0rpx 12rpx 25rpx 0rpx rgba(136,136,136,0.08);
+	        box-shadow:0rpx 12rpx 25rpx 0rpx rgba(136,136,136,0.08);
+	border-radius:20rpx;
+	font-size:28rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;padding:48rpx;
+	position:relative;
+}
+.codelist_detail{
+	margin-top:21rpx;
+	color:#9B9B9B
+}
+.codelist_title{
+	font-size:32rpx;
+	width: 278rpx;
+}
+.codelist_infomation{
+	margin-left:34rpx
+}
+.codelist_image_name{
+	margin-top:19rpx;
+	word-break: break-all;
+	width: 132rpx;
+}
+.codelist_image{
+	width:132rpx;
+	height:132rpx;
+	background:#888888
+}
+.codelist_image image{
+	width:132rpx;
+	height:132rpx;
+	background:#888888
+}
+.codelist_edit{
+	width:45rpx;
+	height:42rpx;
+}
+.codelist_edit image{
+	width:45rpx;
+	height:42rpx;
+}
+.codelist_delete image{
+	width:45rpx;
+	height:42rpx;
+}
+.codelist_operation{
+	position:absolute;
+	right:48rpx;
+	top:48rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	width: 127rpx;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+

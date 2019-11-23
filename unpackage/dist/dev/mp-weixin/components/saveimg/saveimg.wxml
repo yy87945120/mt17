@@ -1,0 +1,1 @@
+<view class="content"><button data-event-opts="{{[['tap',[['savePic']]]]}}" class="normalButton" style="margin-top:28rpx;" bindtap="__e">保存到相册</button></view>

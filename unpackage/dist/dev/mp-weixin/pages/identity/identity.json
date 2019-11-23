@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "码捷达-身份标识",
+  "navigationBarBackgroundColor": "#3377FF",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "banner": "/components/banner/banner",
+    "contact": "/components/contact/contact"
+  }
+}

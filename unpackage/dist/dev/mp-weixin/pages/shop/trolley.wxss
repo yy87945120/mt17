@@ -1,0 +1,16 @@
+
+.iconfont{
+}
+.iconxuanzhong{
+	font-size:36rpx;
+	color:rgb(42,151,255);
+	background: white;
+	height: 36rpx;
+	width: 36rpx;
+	border-radius: 50%;
+}
+.iconyuancircle46{
+	font-size:36rpx;
+}
+
+

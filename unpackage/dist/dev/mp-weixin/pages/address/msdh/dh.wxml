@@ -1,0 +1,1 @@
+<view class="content grayBackground"><button data-event-opts="{{[['tap',[['showDh']]]]}}" class="normalButton" style="margin-top:48rpx;" bindtap="__e">跳转导航</button></view>

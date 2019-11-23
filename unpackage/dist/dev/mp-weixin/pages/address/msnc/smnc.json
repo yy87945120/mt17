@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "非常抱歉挡住您了！",
+  "usingComponents": {
+    "link-url": "/components/link/link",
+    "pinpai": "/components/pinpai/pinpai",
+    "an-upload-img": "/components/an-uploadImg/an-uploadImg",
+    "banner": "/components/banner/banner",
+    "contact": "/components/contact/contact"
+  }
+}

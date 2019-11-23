@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "虚拟电话介绍",
+  "usingComponents": {
+    "contact": "/components/contact/contact",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "banner": "/components/banner/banner"
+  }
+}

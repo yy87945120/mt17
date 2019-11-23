@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "停车码",
+  "usingComponents": {
+    "an-upload-img": "/components/an-uploadImg/an-uploadImg",
+    "jsfun-record": "/components/jsfun-record/jsfun-record",
+    "banner": "/components/banner/banner",
+    "contact": "/components/contact/contact",
+    "saveimg": "/components/saveimg/saveimg"
+  }
+}

@@ -294,7 +294,7 @@
 								uni.hideLoading();
 								if(res){
 									uni.setStorageSync('qrcodeNo',res.no);
-									uni.navigateTo({
+									uni.reLaunch({
 										"url":"/pages/address/msdh/dhsc?qrcode="+res.no
 									})
 								}else{
